@@ -1,4 +1,4 @@
-# SummarizeNewsArticles *[work in progress]*
+# SummarizeNewsArticles
 
 Fictional scenario: A News Media firm uses flashcards of broad news articles to design the front page of their blog, which is read by more than a million readers across the globe. To develop the content for these flashcards, the news editors manually summarize the prospective news articles. This process is very time-consuming. Therefore the idea campe up to build a text summarizer to automatically generate summaries that could act as fairly good starting points.
 
